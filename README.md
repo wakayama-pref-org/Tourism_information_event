@@ -1,4 +1,4 @@
-# Tourism_information_event
+# tourism_information_event
 　【わかやま観光情報のイベント情報一覧です。】
 　わかやま観光情報のイベント情報一覧です。
 
